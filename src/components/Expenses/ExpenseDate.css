@@ -3,12 +3,12 @@
     flex-direction: column;
     width: 5.5rem;
     height: 5.5rem;
-    background: rgba(150, 176, 255, 0.59);
+    background: #96b0ff96;
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(14.8px);
     -webkit-backdrop-filter: blur(14.8px);
-    border: 1px solid rgba(69, 102, 199, 0.79);
+    border: 1px solid #4566c7c9;
     border-radius: 12px;
     align-items: center;
     justify-content: center;

@@ -31,12 +31,12 @@
   .expense-item__price {
     font-size: 1rem;
     font-weight: bold;
-    background: rgba(153, 231, 184, 1);
+    background: #99e7b8;
     border-radius: 16px;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 30px #0000001a;
     backdrop-filter: blur(14.8px);
     -webkit-backdrop-filter: blur(14.8px);
-    border: 1px solid rgba(27, 202, 97, 0.79);
+    border: 1px solid #1bca61c9;
     padding: 0.5rem;
     border-radius: 12px;
   }
