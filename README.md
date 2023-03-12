@@ -1,39 +1,47 @@
-# Expense-Tracker
+# Expense Tracker
 
-### Dependencies
+A simple React Based mini project for expense tracking.
 
-<ul>
-    <li> 
-        <a href="https://reactjs.org/" >React JS</a>
-    </li>
-</ul>
+**Live Preview**: https://shubhamkhan.github.io/Expense-Tracker/
 
-In the project directory, install node:
+## Technology used
 
-### `npm install`
+* HTML
+* CSS
+* React JS
+* Node JS
 
-To run the server:
+## Introduction
 
-### `npm start`
+Designed robust user-friendly user interface using React.JS
 
-To run app in your browser:
+## Run Locally
 
-### `http://localhost:3000/`
+To run this web app locally, simply follow these steps:
 
-#### Result
+- Clone this repository with the following command :-
 
+```
+git clone https://github.com/shubhamkhan/Chat-Bot.git
+```
+
+- Run npm install to install all the dependencies:-
+
+```
+npm install
+```
+
+- Run npm start to start the app on port 3000:-
+
+```
+npm start
+```
+
+**Note** :- You need to have node.js installed on your local machine to run this app locally.
+
+# Screenshot
 ![Expense Tracker](ExpenseTracker.JPG)
 
+# License
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[MIT License](https://github.com/shubhamkhan/Expense-Tracker/blob/master/LICENSE) @ [Shubham Khan](https://github.com/shubhamkhan/)
